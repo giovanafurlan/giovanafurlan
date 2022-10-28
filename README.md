@@ -1,5 +1,5 @@
 <h1> 
-❗ Olá!, Eu sou a <a href="https://github.com/Defcon27">Giovana</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+❗ Olá!, Eu sou a <a href="https://github.com/giovanafurlan">Giovana</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/giovanafurlan/)](https://github.com/giovanafurlan/) 
