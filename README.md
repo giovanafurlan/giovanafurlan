@@ -44,7 +44,6 @@ Eu sou graduada 🎓 na [@FIAP](https://www.fiap.com.br) em Análise e Desenvolv
 
 <div>
   <a href="https://github.com/giovanafurlan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api username=giovanafurlan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanafurlan&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanafurlan&layout=compact&langs_count=7&theme=radical"/>
-  </a>
 </div>
