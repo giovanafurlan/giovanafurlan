@@ -3,7 +3,7 @@
 </h1>
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/giovanafurlan/)](https://github.com/giovanafurlan/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanafurlan/)](https://www.linkedin.com/in/giovanafurlan)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovana-furlan/)](https://www.linkedin.com/in/giovana-furlan)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovananelofurlan@gmail.com)](mailto:giovananelofurlan@gmail.com)
 <br/><br/>
 
@@ -19,7 +19,7 @@ Eu sou graduada 🎓 na [@FIAP](https://www.fiap.com.br) em Análise e Desenvolv
 - 📝 O meu TCC ficou 5º lugar no Challenge 2022 da [@FIAP](https://www.fiap.com.br)
 - 👯 Estou sempre na procura de colaboração e troca de conhecimentos
 - ♀️ Incetivo cada vez mais mulheres ingressarem na área de tecnologia
-- 🗣️ Conecte-se com meu [LinkedIn](https://www.linkedin.com/in/giovanafurlan/)
+- 🗣️ Conecte-se com meu [LinkedIn](https://www.linkedin.com/in/giovana-furlan/)
 - ➕ Curiosidade: Eu ❤️ amo animais, especialmente minhas gatas Kiara e Frajola 🐱 e minha cachorra Luna 🐶
 <br/><br/>
   
