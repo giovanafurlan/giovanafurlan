@@ -20,7 +20,7 @@ Eu sou graduada 🎓 na [@FIAP](https://www.fiap.com.br) em Análise e Desenvolv
 - 👯 Estou sempre na procura de colaboração e troca de conhecimentos
 - ♀️ Incetivo cada vez mais mulheres ingressarem na área de tecnologia
 - 🗣️ Conecte-se com meu [LinkedIn](https://www.linkedin.com/in/giovana-furlan/)
-- ➕ Curiosidade: Eu ❤️ amo animais, especialmente minhas gatas Kiara e Frajola 🐱 e minha cachorra Luna 🐶
+- ➕ Eu ❤️ amo animais, especialmente minhas gatas Kiara e Frajola 🐱 e minha cachorra Luna 🐶
 <br/><br/>
   
 ## 🖥️ Meu Setup
