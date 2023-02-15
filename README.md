@@ -15,7 +15,7 @@ Eu sou graduada 🎓 na [@FIAP](https://www.fiap.com.br) em Análise e Desenvolv
 ## ⚡️ Alguns fatos rápidos
 
 - 🔭 Atualmente possuo um maior foco na área de **Front end 💛**
-- 👀 Estou desenvolvendo meu [portfolio](https://giovana-furlan.vercel.app/) 
+- 👀 Estou desenvolvendo meu [portfolio](https://portfolio-giovana-furlan.vercel.app/) 
 - 📝 O meu TCC ficou 5º lugar no Challenge 2022 da [@FIAP](https://www.fiap.com.br)
 - 👯 Estou sempre na procura de colaboração e troca de conhecimentos
 - ♀️ Incetivo cada vez mais mulheres ingressarem na área de tecnologia
