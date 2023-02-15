@@ -9,7 +9,7 @@ Olá!, Eu sou a <a href="https://github.com/giovanafurlan">Giovana</a> 🤩</h1>
 
 ## 🆒 Um pouco sobre mim 
 
-Eu sou graduada 🎓 na [@FIAP](https://www.fiap.com.br) em Análise e Desenvolvimento de Sistemas. Trabalho atualmente como estagiária em programação na empresa [@Webpeak](https://www.webpeak.com.br) que é uma das principais ferramentas de SEO do mercado. Apaixonada por tecnologia, quero para meu futuro ser protagonista de projetos revolucionários. 
+Eu sou graduada 🎓 na [@FIAP](https://www.fiap.com.br) em Análise e Desenvolvimento de Sistemas. Trabalho atualmente como programadora na empresa [@Webpeak](https://www.webpeak.com.br) que é uma das principais ferramentas de SEO do mercado. Apaixonada por tecnologia, quero para meu futuro ser protagonista de projetos revolucionários. 
 <br/><br/>
 
 ## ⚡️ Alguns fatos rápidos
