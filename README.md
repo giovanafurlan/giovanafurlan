@@ -1,5 +1,5 @@
 <h1> 
-Olá!, Eu sou a <a href="https://github.com/giovanafurlan">Giovana</a> 🤩</h1>
+Hi, I'm <a href="https://github.com/giovanafurlan">Giovana</a> 🤩</h1>
 </h1>
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/giovanafurlan/)](https://github.com/giovanafurlan/) 
@@ -7,28 +7,28 @@ Olá!, Eu sou a <a href="https://github.com/giovanafurlan">Giovana</a> 🤩</h1>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovananelofurlan@gmail.com)](mailto:giovananelofurlan@gmail.com)
 <br/><br/>
 
-## 🆒 Um pouco sobre mim 
+## 🆒 A little about myself
 
-Eu sou graduada 🎓 na [@FIAP](https://www.fiap.com.br) em Análise e Desenvolvimento de Sistemas. Trabalho atualmente como programadora na empresa [@Webpeak](https://www.webpeak.com.br) que é uma das principais ferramentas de SEO do mercado. Apaixonada por tecnologia, quero para meu futuro ser protagonista de projetos revolucionários. 
+I graduated 🎓 from [@FIAP](https://www.fiap.com.br) in Systems Analysis and Development. I currently work as a programmer at [@Webpeak](https://www.webpeak.com.br) which is one of the main SEO tools on the market. Passionate about technology, I want to be the protagonist of revolutionary projects for my future.
 <br/><br/>
 
-## ⚡️ Alguns fatos rápidos
+## ⚡️ Some facts
 
-- 🔭 Atualmente possuo um maior foco na área de **Front end 💛**
-- 👀 Estou desenvolvendo meu [portfolio](https://portfolio-giovana-furlan.vercel.app/) 
-- 📝 O meu TCC ficou 5º lugar no Challenge 2022 da [@FIAP](https://www.fiap.com.br)
-- 👯 Estou sempre na procura de colaboração e troca de conhecimentos
-- ♀️ Incetivo cada vez mais mulheres ingressarem na área de tecnologia
-- 🗣️ Conecte-se com meu [LinkedIn](https://www.linkedin.com/in/giovana-furlan/)
-- ➕ Eu ❤️ amo animais, especialmente minhas gatas Kiara e Frajola 🐱 e minha cachorra Luna 🐶
+- 🔭 I currently have a greater focus on the **Front end 💛** area
+- 👀 I'm developing my [portfolio](https://portfolio-giovana-furlan.vercel.app/)
+- 📝 My TCC was 5th in the [@FIAP](https://www.fiap.com.br) Challenge 2022
+- 👯 I'm always looking for collaboration and knowledge exchange
+- ♀️ Encourage more and more women to enter the technology field
+- 🗣️ Connect with my [LinkedIn](https://www.linkedin.com/in/giovana-furlan/)
+- ➕ I ❤️ love animals, especially my cats Kiara and Frajola 🐱 and my dog Luna 🐶
 <br/><br/>
   
-## 🖥️ Meu Setup
+## 🖥️ My Setup
 
 <img src="https://img.shields.io/badge/Ubuntu-555555.svg?&style=flat-square&logo=ubuntu&logoColor=E95420"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
 <br/><br/>
 
-## 🖱️ Algumas ferramentas e tecnologias que uso
+## 🖱️ Some tools and technologies I use
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
@@ -40,7 +40,7 @@ Eu sou graduada 🎓 na [@FIAP](https://www.fiap.com.br) em Análise e Desenvolv
 <code><img height="30" src="https://pbs.twimg.com/profile_images/872125924409528322/YIgPht1s_400x400.jpg"></code>
 <br/><br/>
 
-## 🚀 Estatísticas rápidas
+## 🚀 Quick stats
 
 <div>
   <a href="https://github.com/giovanafurlan">
