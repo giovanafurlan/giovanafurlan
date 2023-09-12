@@ -1,5 +1,5 @@
-<h1> 
-Hi, I'm <a href="https://github.com/giovanafurlan">Giovana</a> 🤩</h1>
+<h1>
+Olá, meu nome é <a href="https://github.com/giovanafurlan">Giovana</a> 🤩</h1>
 </h1>
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/giovanafurlan/)](https://github.com/giovanafurlan/) 
@@ -7,28 +7,28 @@ Hi, I'm <a href="https://github.com/giovanafurlan">Giovana</a> 🤩</h1>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovananelofurlan@gmail.com)](mailto:giovananelofurlan@gmail.com)
 <br/><br/>
 
-## 🆒 A little about myself
+## 🆒 Um pouco sobre mim
 
-I graduated 🎓 from [@FIAP](https://www.fiap.com.br) in Systems Analysis and Development. I currently work as a programmer at [@Webpeak](https://www.webpeak.com.br) which is one of the main SEO tools on the market. Passionate about technology, I want to be the protagonist of revolutionary projects for my future.
+Me formei 🎓 pela [@FIAP](https://www.fiap.com.br) em Análise e Desenvolvimento de Sistemas. Atualmente trabalho como programador no [@Webpeak](https://www.webpeak.com.br) que é uma das principais ferramentas de SEO do mercado. Apaixonado por tecnologia, quero ser protagonista de projetos revolucionários para o meu futuro.
 <br/><br/>
 
-## ⚡️ Some facts
+## ⚡️ Alguns fatos
 
-- 🔭 I currently have a greater focus on the **Front end 💛** area
-- 👀 I'm developing my [portfolio](https://portfolio-giovana-furlan.vercel.app/)
-- 📝 My TCC was 5th in the [@FIAP](https://www.fiap.com.br) Challenge 2022
-- 👯 I'm always looking for collaboration and knowledge exchange
-- ♀️ Encourage more and more women to enter the technology field
-- 🗣️ Connect with my [LinkedIn](https://www.linkedin.com/in/giovana-furlan/)
-- ➕ I ❤️ love animals, especially my cats Kiara and Frajola 🐱 and my dog Luna 🐶
+- 🔭 Atualmente tenho um foco maior na área de **Front end 💛**
+- 👀 Estou desenvolvendo meu [portfólio](https://portfolio-giovana-furlan.vercel.app/)
+- 📝 Meu TCC ficou em 5º lugar no Desafio [@FIAP](https://www.fiap.com.br) 2022
+- 👯 Estou sempre em busca de colaboração e troca de conhecimento
+- ♀️ Incentivar cada vez mais mulheres a ingressar na área de tecnologia
+- 🗣️ Conecte-se ao meu [LinkedIn](https://www.linkedin.com/in/giovana-furlan/)
+- ➕ Eu ❤️ adoro animais, principalmente meus gatos Kiara e Frajola 🐱 e minha cadela Luna 🐶
 <br/><br/>
   
-## 🖥️ My Setup
+## 🖥️ Meu setup
 
 <img src="https://img.shields.io/badge/Ubuntu-555555.svg?&style=flat-square&logo=ubuntu&logoColor=E95420"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
 <br/><br/>
 
-## 🖱️ Some tools and technologies I use
+## 🖱️ Algumas ferramentas e tecnologias que utilizo
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
@@ -40,10 +40,10 @@ I graduated 🎓 from [@FIAP](https://www.fiap.com.br) in Systems Analysis and D
 <code><img height="30" src="https://pbs.twimg.com/profile_images/872125924409528322/YIgPht1s_400x400.jpg"></code>
 <br/><br/>
 
-## 🚀 Quick stats
+## 🚀 Estatísticas rápidas
 
 <div>
-  <a href="https://github.com/giovanafurlan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanafurlan&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanafurlan&layout=compact&langs_count=7&theme=radical"/>
+   <a href="https://github.com/giovanafurlan">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanafurlan&show_icons=true&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanafurlan&layout=compact&langs_count=7&theme=radical"/>
 </div>
