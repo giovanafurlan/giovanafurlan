@@ -9,7 +9,7 @@ Olá, meu nome é <a href="https://github.com/giovanafurlan">Giovana</a> 🤩</h
 
 ## 🆒 Um pouco sobre mim
 
-Me formei 🎓 pela [@FIAP](https://www.fiap.com.br) em Análise e Desenvolvimento de Sistemas. Atualmente trabalho como programador no [@Webpeak](https://www.webpeak.com.br) que é uma das principais ferramentas de SEO do mercado. Apaixonado por tecnologia, quero ser protagonista de projetos revolucionários para o meu futuro.
+Me formei 🎓 pela [@FIAP](https://www.fiap.com.br) em Análise e Desenvolvimento de Sistemas. Atualmente trabalho como programador no [@Webpeak](https://www.webpeak.com.br) que é uma das principais ferramentas de SEO do mercado. Apaixonada por tecnologia, quero ser protagonista de projetos revolucionários para o meu futuro.
 <br/><br/>
 
 ## ⚡️ Alguns fatos
